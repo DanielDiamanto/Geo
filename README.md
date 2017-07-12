@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# Geo
+Geolocalizacion con Ruby on Rails
+>>>>>>> 6ebb496178daf399198e4aac858db22a7778d58b
